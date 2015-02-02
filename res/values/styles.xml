@@ -195,7 +195,7 @@
         <item name="android:colorBackground">@*android:color/material_blue_grey</item>
         <item name="android:colorPrimary">@color/network_operators_color_primary</item>
         <item name="android:colorPrimaryDark">@color/network_operators_color_primary_dark</item>
-        <item name="android:colorAccent">@*android:color/material_blue_500</item>
+        <item name="android:colorAccent">@*android:color/material_blue_300</item>
         <item name="android:dialogTheme">@style/SettingsAlertDialogTheme</item>
         <item name="android:alertDialogTheme">@style/SettingsAlertDialogTheme</item>
     </style>
@@ -321,4 +321,3 @@
         <item name="preferenceBackgroundColor">@drawable/preference_background</item>
     </style>
 </resources>
-
